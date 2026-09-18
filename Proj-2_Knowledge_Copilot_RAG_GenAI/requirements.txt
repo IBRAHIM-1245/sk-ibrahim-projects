@@ -1,0 +1,10 @@
+openai>=3.14.1,<4
+python-dotenv
+chromadb
+pypdf
+python-docx
+markdown
+fastapi
+uvicorn[standard]
+streamlit
+pytest
